@@ -77,3 +77,12 @@ body{
     right: 30px;
 }
   
+
+.list{
+  list-style-type: none;
+  padding: 0;
+}
+
+.list li{
+  margin: 20px 0;
+}

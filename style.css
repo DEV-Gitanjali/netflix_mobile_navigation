@@ -88,9 +88,17 @@ body{
 }
 
 
-list li a {
+.list li a {
   color: rgb(34, 31, 31);
   font-size: 14px;
   text-decoration: none;
   text-transform: uppercase;
 }
+
+.list ul{
+  list-style-type: none;
+  padding-left: 20px;
+}
+
+
+
